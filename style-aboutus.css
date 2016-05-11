@@ -1,0 +1,172 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #313030;
+	background-color: #027fcf;
+	background-image: url(C:/Users/Vandana/Desktop/foss/top-rept.jpg);
+	background-repeat: repeat-x;
+	background-position: left top;
+	margin: 0px;
+}
+h1, h2, h3, h4, h5, h6, p, ul, ol, li, form, input, textarea {
+	padding: 0px;
+	margin: 0px;
+}
+a {
+	color: #072FCF;
+	text-decoration: underline;
+}
+a:hover {
+	color: #072FCF;
+	text-decoration: none;
+}
+.main {
+	width: 1000px;
+	margin: 0px auto;
+}
+.page {
+	width: px;
+	float: left;
+	padding: 42px 0px 0px 0px;
+}
+.top {
+	background-color: #f6f7f7;
+	width: 980px;
+	float: left;
+	padding: 0px 10px 10px 10px;
+}
+.header {
+	width: 980px;
+	float: left;
+}
+.header-top {
+	background-image: url(C:/Users/Vandana/Desktop/foss/header-top.jpg);
+	background-repeat: no-repeat;
+	background-position: left top;
+	width: 980px;
+	height: 87px;
+	float: left;
+}
+.header-top h1 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 35px;
+	font-weight: normal;
+	line-height: 87px;
+	color: #676767;
+	float: left;
+	margin-left: 66px;
+}
+.header-top h1 span {
+	color: #1da5ea;
+}
+.header-top p {
+	font-size: 12px;
+	font-weight: bold;
+	color: #878585;
+	float: right;
+	margin-top: 46px;
+	margin-right: 80px;
+}
+.topmenu {
+	background-image: url(C:/Users/Vandana/Desktop/foss/menubg.jpg);
+	background-repeat: repeat-x;
+	width: 978px;
+	height: 37px;
+	float: left;
+	border: 1px solid #000000;
+}
+.topmenu ul {
+	width: 100%;
+	height: 37px;
+	list-style-type: none;
+}
+.topmenu ul li {
+	height: 37px;
+	float: left;
+	padding-right: 24px;
+	padding-left: 24px;
+}
+.topmenu ul li a {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	line-height: 37px;
+	color: #FFFFFF;
+	text-decoration: none;
+	display: block;
+	height: 37px;
+	float: left;
+	padding-right: 30px;
+	padding-left: 30px;
+}
+.topmenu ul li a:hover {
+	background-image: url(C:/Users/Vandana/Desktop/foss/menu-hov.jpg);
+	background-repeat: repeat-x;
+	background-position: left top;
+}
+.header-img {
+	background-image: url(C:/Users/Vandana/Desktop/foss/header.jpg);
+	background-repeat: no-repeat;
+	background-position: left top;
+	width: 980px;
+	height: 213px;
+	float: left;
+}
+.header-img h2 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 32px;
+	font-weight: normal;
+	line-height: 211px;
+	color: #FFFFFF;
+	margin-left: 98px;
+}
+.row1 h1{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 32px;
+	width: 300px;
+	height: 2px;
+	float: left;
+	margin-left: 350px;
+}
+.content {
+	background-position: left top;
+	width: 980px;
+	float: right;
+	padding-top: 10px;
+	margin-left: 98px;
+	
+}
+.content-left {
+	width: 739px;
+	float: left;
+}
+.row1 {
+	width: 739px;
+	float: center;
+	border-bottom-color: #d4d5d5;
+}
+.img {
+	float: left;
+}
+.welcome {
+	width: 562px;
+	float: right;
+}
+.title {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 25px;
+	font-weight: normal;
+	color: #989b9c;
+	margin-bottom: 20px;
+}
+.title span {
+	color: #686868;
+}
+.subtitle {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 25px;
+	font-weight: normal;
+	color: #0b90d6;
+	margin-bottom: 10px;
+}
+
